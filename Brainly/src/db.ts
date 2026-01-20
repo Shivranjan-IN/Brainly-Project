@@ -1,6 +1,6 @@
 import mongoose , { model, Schema, Types } from "mongoose";
 
-mongoose.connect("mongodb+srv://Admin:fPdzyjptDb15LwJt@cluster0.cu0co.mongodb.net/Brain")
+mongoose.connect("mongodb+srv://Admin:ojIPK1D5awxeU19c@cluster0.cu0co.mongodb.net/Brain")
 
 
 
